@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sudip Lamichhane
-- 👀 I’m interested in Python,ML,SQL
 - 🌱 I’m currently studing Computer science
 - 💞️ I’m looking to collaborate on team with python project
 
